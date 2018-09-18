@@ -13,11 +13,11 @@ let resumeData = {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/samantha-olvera/",
         "className": "fa fa-linkedin"
-      }
+      },
     ],
     "aboutme": "Samantha is a full stack web developer with expertise in HTML, CSS, JavaScript, jQuery Bootstrap, Node.js, MongoDB, SQl, and React.js. After spending a decade working as a Social Worker, Samantha has developed an expertise at thinking outside the box, coming up with solutions unique to each individual situation, and understanding what cannot always be articulated. In her spare time, Samantha enjoys being involved in various organizations and gaining as much knowledge as humanly possible. When she can fit it in to her busy schedule, she is traveling throughout the US and spending quality time with family.",
     "address": "Henrico, Virginia",
-    "website": "smolvera.github.io/SamanthaOlvera/",
+    "website": "https://samanthaolvera.herokuapp.com/",
     "education": [{
         "UniversityName": "University of Richmond",
         "specialization": "Full Stack Web Development",
@@ -39,14 +39,14 @@ let resumeData = {
         "specialization":"Family Services Specilist II",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Above Average Timeframe Adherence"
       },
       {
         "CompanyName":"Uber",
         "specialization":"Contractor",
         "MonthOfLeaving":"Dec",
         "YearOfLeaving":"2015",
-        "Achievements":"Some Achievements"
+        "Achievements":"Maintained 5 Star Rating"
       },
       {
         "CompanyName":"NJ Department of Childern and Families",
