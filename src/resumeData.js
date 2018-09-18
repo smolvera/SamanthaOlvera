@@ -15,7 +15,7 @@ let resumeData = {
         "className": "fa fa-linkedin"
       }
     ],
-    "aboutme": "Samantha is a full stack web developer with expertise in HTML, CSS, JavaScript, jQuery Bootstrap, Node.js, MongoDB, SQl, and React.js. After spending a decade working as a Social Worker, Samantha has developed an expertise at thinking outside the box, coming up with solutions unique to each individual situation, and understanding what cannot always be articulated. \n In her spare time, Samantha enjoys being involved in various organizations and gaining as much knowledge as humanly possible. When she can fit it in to her busy schedule, she is traveling throughout the US and spending quality time with family.",
+    "aboutme": "Samantha is a full stack web developer with expertise in HTML, CSS, JavaScript, jQuery Bootstrap, Node.js, MongoDB, SQl, and React.js. After spending a decade working as a Social Worker, Samantha has developed an expertise at thinking outside the box, coming up with solutions unique to each individual situation, and understanding what cannot always be articulated. In her spare time, Samantha enjoys being involved in various organizations and gaining as much knowledge as humanly possible. When she can fit it in to her busy schedule, she is traveling throughout the US and spending quality time with family.",
     "address": "Henrico, Virginia",
     "website": "smolvera.github.io/SamanthaOlvera/",
     "education": [{
