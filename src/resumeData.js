@@ -88,7 +88,7 @@ let resumeData = {
       {
         "name":"YouPhonic",
         "description":"A song lyric application",
-        "imgurl":"images/portfolio/microphone.jpg"
+        "imgurl":"/images/portfolio/microphone.jpg"
       },
       {
         "name":"Briefcase",
