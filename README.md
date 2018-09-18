@@ -1,12 +1,9 @@
 # Samantha Olvera
 
-> [smolvera2010.so@gmail.com](mailto:smolvera2010.so@gmail.com) | 
+[smolvera2010.so@gmail.com](mailto:smolvera2010.so@gmail.com) | 
 [+973-943-3161](tel:+9739433161) |
 Henrico, Virginia
 
-> [GitHub](https://github.com/smolvera) |
-[LinkedIn](https://www.linkedin.com/in/samantha-olvera/) |
-[Portfolio](https://samanthaolvera.herokuapp.com/)
 
 *Full Stack Web Developer with a background in Social Work. Skillful in developing individualized plans to address clients needs. Adept to working within mandatory time-frames.* 
 
@@ -30,8 +27,6 @@ Henrico, Virginia
   - Worked on the frontend and back end development of the forms and database.
   - Frameworks used were Express, Node, Bootstrap, Axios, CSS, Passport, React, HTML, Mongo, Mongoose, GIT
 
-___
-
 ## WORK EXPRIENCE
 **Hanover County Department of Social Services, Hanover, VA**  
 *Family Services Specialist II*  
@@ -48,15 +43,13 @@ Jan 2015 &ndash; Dec 2015
 *Family Services Specialist II*  
 Jan 2007 &ndash; Jul 2014
 
-___
-
 ## EDUCATION
 ### University of Richmond, Richmond, VA
 *Full Stack Web Development Certificate*
 Jan 2018 &ndash; July 2018
 
 ### Centenary College, Hackettstown, NJ
-*B.A. Psycology Major/Biology Minor
+*B.A. Psycology Major/Biology Minor*
 Aug 2002 &ndash; May 2006
 
 
