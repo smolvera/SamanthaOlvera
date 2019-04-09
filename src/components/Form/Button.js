@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-import PropTypes from 'prop-types';
+import propTypes from 'prop-types';
 
 class Button extends Component {
-    static PropTypes={
-        email: PropTypes.string.isRequired,
-        formValues: PropTypes.shape({
-            name: PropTypes.string.isRequired,
-            email: PropTypes.string.isRequired,
-            message: PropTypes.string.isRequired,
+    static propTypes={
+        email: propTypes.string.isRequired,
+        formValues: propTypes.shape({
+            name: propTypes.string.isRequired,
+            email: propTypes.string.isRequired,
+            message: propTypes.string.isRequired,
         }).isRequired,
     };
 
@@ -28,13 +28,17 @@ class Button extends Component {
         const subject=`?subject=Interested%20Client`;
         const body=`&body=${this.props.formValues.message}`;
         return (
+            
             <a 
             href={`${recipient}${subject}${body}`}
             onClick={this.logFormDataToConsole}
             className="btn"
             >
-            Email Me
+            <button>
+            Click to Send
+            </button>
             </a>
+            
         );
     }
 }

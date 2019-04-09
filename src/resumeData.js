@@ -36,7 +36,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Hanover County",
-        "specialization":"Family Services Specilist II",
+        "specialization":"Family Services Specialist II",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
         "Achievements":"Above Average Timeframe Adherence"
@@ -50,7 +50,7 @@ let resumeData = {
       },
       {
         "CompanyName":"NJ Department of Childern and Families",
-            "specialization":"Family Services Specilist II",
+            "specialization":"Family Services Specialist II",
             "MonthOfLeaving":"Aug",
             "YearOfLeaving":"2014",
             "Achievements":"Newark Model Court Essex County Certificate of Recognition"

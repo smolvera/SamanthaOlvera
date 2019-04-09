@@ -94,7 +94,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: hotpink; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -116,7 +116,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: hotpink; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -193,7 +193,7 @@ ul#nav li.current a { color: hotpink; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: hotpink; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -700,7 +700,7 @@ call-to-action .button {
 }
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
-   padding-right: 3%;
+   padding-right: 0%;
    text-align: center;
 }
 #contact .header-col { padding-top: 6px; }
@@ -741,7 +741,7 @@ align-items: center;
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: hotpink;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -760,8 +760,11 @@ align-items: center;
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: hotpink;
 	font-size: 13px;
+}
+button {
+background: hotpink;
 }
 #message-warning, #message-success {
    display: none;
@@ -772,7 +775,7 @@ align-items: center;
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: hotpink; }
 
 #message-warning i,
 #message-success i {
