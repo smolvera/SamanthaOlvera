@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 
 
 export default class Porfolio extends Component {
+  handleClick(e) {
+    e.preventDefault();
+    console.log("this is: ", this.href);
+  }
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -15,7 +19,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item" key={index}>
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a onClick={this.handleclick} href={this.href}>
                       <img src={`${item.imgurl}`} className="item-img" alt="project pics" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">

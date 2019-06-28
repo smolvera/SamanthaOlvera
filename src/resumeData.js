@@ -15,7 +15,7 @@ let resumeData = {
         "className": "fa fa-linkedin"
       },
     ],
-    "aboutme": "Samantha is a full stack web developer with expertise in HTML, CSS, JavaScript, jQuery Bootstrap, Node.js, MongoDB, SQl, and React.js. After spending a decade working as a Social Worker, Samantha has developed an expertise at thinking outside the box, coming up with solutions unique to each individual situation, and understanding what cannot always be articulated. In her spare time, Samantha enjoys being involved in various organizations and gaining as much knowledge as humanly possible. When she can fit it in to her busy schedule, she is traveling throughout the US and spending quality time with family.",
+    "aboutme": "Samantha is a full stack web developer with expertise in HTML, CSS, JavaScript, jQuery Bootstrap, Node.js, MongoDB, SQl, React.js, and WordPress. After spending a decade working as a Social Worker, Samantha has developed an expertise at thinking outside the box, coming up with solutions unique to each individual situation, and understanding what cannot always be articulated. In her spare time, Samantha enjoys being involved in various organizations and gaining as much knowledge as humanly possible. When she can fit it in to her busy schedule, she is traveling throughout the US and spending quality time with family.",
     "address": "Henrico, Virginia",
     "website": "https://samanthaolvera.herokuapp.com/",
     "education": [{
@@ -35,6 +35,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Freelance",
+        "specialization":"Full Stack Developer/WordPress Developer",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2019",
+        "Achievements":"Timely Delivery, Fully Functional, Secure, Fully Responsive"
+      },
+      {
         "CompanyName":"Hanover County",
         "specialization":"Family Services Specialist II",
         "MonthOfLeaving":"Jan",
@@ -42,11 +49,11 @@ let resumeData = {
         "Achievements":"Above Average Timeframe Adherence"
       },
       {
-        "CompanyName":"Uber",
+        "CompanyName":"Self Employment",
         "specialization":"Contractor",
         "MonthOfLeaving":"Dec",
         "YearOfLeaving":"2015",
-        "Achievements":"Maintained 5 Star Rating"
+        "Achievements":"Maintained 5 Star Rating Customer Service"
       },
       {
         "CompanyName":"NJ Department of Childern and Families",
@@ -82,23 +89,29 @@ let resumeData = {
       },
       {
         "skillname": "Git"
-      } 
+      }, 
+      {
+        "skillname": "WordPress"
+      }
     ],
     "portfolio":[
       {
         "name":"YouPhonic",
         "description":"A song lyric application",
-        "imgurl":"/images/portfolio/microphone.jpg"
+        "imgurl":"/images/portfolio/microphone.jpg",
+        "href":"https://smolvera.github.io/Youphonic_App/"
       },
       {
         "name":"Briefcase",
         "description":"A job search manager application",
-        "imgurl":"images/portfolio/manandBriefcase.jpg"
+        "imgurl":"images/portfolio/manandBriefcase.jpg",
+        "href":"https://intense-badlands-15017.herokuapp.com/"
       },
       {
         "name":"FitLife",
         "description":"A fitness management application",
-        "imgurl":"images/portfolio/test3.jpg"
+        "imgurl":"images/portfolio/test3.jpg",
+        "href":"https://group-project-3.herokuapp.com/"
       }
     ],
   }
