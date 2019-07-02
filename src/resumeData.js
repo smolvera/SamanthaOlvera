@@ -37,32 +37,39 @@ let resumeData = {
       {
         "CompanyName":"Freelance",
         "specialization":"Full Stack Developer/WordPress Developer",
-        "MonthOfLeaving":"March",
-        "YearOfLeaving":"2019",
-        "Achievements":"Timely Delivery, Fully Functional, Secure, Fully Responsive"
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":"Timely Delivery of Functional, Secure, Responsive Sites"
       },
       {
-        "CompanyName":"Hanover County",
-        "specialization":"Family Services Specialist II",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Above Average Timeframe Adherence"
-      },
-      {
-        "CompanyName":"Self Employment",
-        "specialization":"Contractor",
-        "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2015",
-        "Achievements":"Maintained 5 Star Rating Customer Service"
-      },
-      {
-        "CompanyName":"NJ Department of Childern and Families",
-            "specialization":"Family Services Specialist II",
-            "MonthOfLeaving":"Aug",
-            "YearOfLeaving":"2014",
-            "Achievements":"Newark Model Court Essex County Certificate of Recognition"
-          
+        "CompanyName":"Freelance",
+        "specialization":"SEO Specialist, CMS Developer/Specialist",
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":"Increased Web Exposure and Profits by over 20%"
       }
+      // {
+      //   "CompanyName":"Hanover County",
+      //   "specialization":"Family Services Specialist II",
+      //   "MonthOfLeaving":"Jan",
+      //   "YearOfLeaving":"2018",
+      //   "Achievements":"Above Average Timeframe Adherence"
+      // },
+      // {
+      //   "CompanyName":"Self Employment",
+      //   "specialization":"Contractor",
+      //   "MonthOfLeaving":"Dec",
+      //   "YearOfLeaving":"2015",
+      //   "Achievements":"Maintained 5 Star Rating Customer Service"
+      // },
+      // {
+      //   "CompanyName":"NJ Department of Childern and Families",
+      //       "specialization":"Family Services Specialist II",
+      //       "MonthOfLeaving":"Aug",
+      //       "YearOfLeaving":"2014",
+      //       "Achievements":"Newark Model Court Essex County Certificate of Recognition"
+          
+      // }
     ],
     "skillsDescription":"Professional Expertise",
     "skills":[
@@ -97,21 +104,21 @@ let resumeData = {
     "portfolio":[
       {
         "name":"YouPhonic",
-        "description":"A song lyric application",
+        "description":"A song lyric application using HTML, CSS, Javascript, API's",
         "imgurl":"/images/portfolio/microphone.jpg",
-        "href":"https://smolvera.github.io/Youphonic_App/"
+        "url":"https://smolvera.github.io/Youphonic_App/"
       },
       {
         "name":"Briefcase",
-        "description":"A job search manager application",
+        "description":"A job search manager application using HTML, Bootstrap, SQL",
         "imgurl":"images/portfolio/manandBriefcase.jpg",
-        "href":"https://intense-badlands-15017.herokuapp.com/"
+        "url":"https://intense-badlands-15017.herokuapp.com/"
       },
       {
         "name":"FitLife",
-        "description":"A fitness management application",
+        "description":"A fitness management application using Reactjs, MongoDB, CSS",
         "imgurl":"images/portfolio/test3.jpg",
-        "href":"https://group-project-3.herokuapp.com/"
+        "url":"https://group-project-3.herokuapp.com/"
       }
     ],
   }

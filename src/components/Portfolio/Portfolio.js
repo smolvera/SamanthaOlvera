@@ -2,9 +2,13 @@ import React, { Component } from 'react';
 
 
 export default class Porfolio extends Component {
-  handleClick(e) {
-    e.preventDefault();
-    console.log("this is: ", this.href);
+  constructor(props) {
+    super(props);
+    this.handleClick = this.handleClick.bind(this);
+  }
+  handleClick = ()  => {
+    console.log("This was clicked: ");
+
   }
   render() {
     let resumeData = this.props.resumeData;
@@ -19,7 +23,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item" key={index}>
                   <div className="item-wrap">
-                    <a onClick={this.handleclick} href={this.href}>
+                    <a href={item.url}>
                       <img src={`${item.imgurl}`} className="item-img" alt="project pics" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">

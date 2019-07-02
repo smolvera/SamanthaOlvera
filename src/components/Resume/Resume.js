@@ -7,7 +7,6 @@ export default  class Resume extends Component {
       <section id="resume">
         {/* Skills Section */}
         <div className="row skill">
-
           <div className="three columns header-col">
             <h1><span>Skills</span></h1>
           </div>

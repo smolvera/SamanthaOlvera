@@ -31,18 +31,14 @@ Henrico, Virginia
 March 2019 &ndash; Present
   - Design and Develop Wordpress Websites creating custom child themes, plugins, updating and maintaining sites.
 
-**Agile Charities, Richmond VA**
+**Agile Charities Richmond, VA**
 *Wordpress Developer*
 March 2019 &ndash; Present
   - Complete the Wireframe and Sitemap Architecture to revamp the current WordPress website. 
 
-
-**Hanover County Department of Social Services, Hanover, VA**  
-*Family Services Specialist II*  
-Dec 2015 &ndash; Jan 2018 
-  - Coordinate meeting to identify specific needs and develop solution focused action plans
-  - Conduct motivation and behavioral interviews to mediate and solve problems
-  - Working independently while adhering to strict time-frames
+**Freelance Developer Richmond, VA**
+March 2019 &ndash; Present
+  - Design and Develop Wordpress Websites creating custom child themes, plugins, updating and maintaining sites.
 
 ## EDUCATION
 ### University of Richmond, Richmond, VA
