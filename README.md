@@ -36,10 +36,6 @@ March 2019 &ndash; Present
 March 2019 &ndash; Present
   - Complete the Wireframe and Sitemap Architecture to revamp the current WordPress website. 
 
-**Freelance Developer Richmond, VA**
-March 2019 &ndash; Present
-  - Design and Develop Wordpress Websites creating custom child themes, plugins, updating and maintaining sites.
-
 ## EDUCATION
 ### University of Richmond, Richmond, VA
 *Full Stack Web Development Certificate*
