@@ -40,14 +40,14 @@ let resumeData = {
         "MonthOfLeaving":"Present",
         "YearOfLeaving":"",
         "Achievements":"Timely Delivery of Functional, Secure, Responsive Sites"
-      },
-      {
-        "CompanyName":"Freelance",
-        "specialization":"SEO Specialist, CMS Developer/Specialist",
-        "MonthOfLeaving":"Present",
-        "YearOfLeaving":"",
-        "Achievements":"Increased Web Exposure and Profits by over 20%"
       }
+      // {
+      //   "CompanyName":"Freelance",
+      //   "specialization":"SEO Specialist, CMS Developer/Specialist",
+      //   "MonthOfLeaving":"Present",
+      //   "YearOfLeaving":"",
+      //   "Achievements":"Increased Web Exposure and Profits by over 20%"
+      // }
       // {
       //   "CompanyName":"Hanover County",
       //   "specialization":"Family Services Specialist II",
